@@ -1,2 +1,5 @@
 # BLPROJECT001
-spring
+framework : spring boot
+orm : spring jpa
+db : mysql
+
